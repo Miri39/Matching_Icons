@@ -1,0 +1,11 @@
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\MatchingIcons\bin\Debug\MatchingIcons.exe.config
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\MatchingIcons\bin\Debug\MatchingIcons.exe
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\MatchingIcons\bin\Debug\MatchingIcons.pdb
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\MatchingIcons\obj\Debug\MatchingIcons.csproj.AssemblyReference.cache
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\MatchingIcons\obj\Debug\MatchingIcons.csproj.SuggestedBindingRedirects.cache
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\MatchingIcons\obj\Debug\MatchingIcons.Form1.resources
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\MatchingIcons\obj\Debug\MatchingIcons.Properties.Resources.resources
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\MatchingIcons\obj\Debug\MatchingIcons.csproj.GenerateResource.cache
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\MatchingIcons\obj\Debug\MatchingIcons.csproj.CoreCompileInputs.cache
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\MatchingIcons\obj\Debug\MatchingIcons.exe
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\MatchingIcons\obj\Debug\MatchingIcons.pdb

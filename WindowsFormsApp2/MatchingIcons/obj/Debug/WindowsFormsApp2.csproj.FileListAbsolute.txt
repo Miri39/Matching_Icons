@@ -1,0 +1,11 @@
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\MIRI\OneDrive\Desktop\gdsc\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
